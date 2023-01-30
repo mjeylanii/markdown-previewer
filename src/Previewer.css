@@ -1,0 +1,24 @@
+/* Contrasting dark 3D color for previewer__header without comments*/
+
+.previewer-header {
+    /* background-color: #2772ac; */
+    padding: 0.5rem;
+    /* border-color: #374956; */
+    border-width: 1px;
+    text-align: left;
+    font-size: 1rem;
+}
+
+.Previewer {
+    /* border-color: #374956; */
+    border-width: 1px;
+    width: 100%;
+}
+
+.previewer__text {
+    /* background-color: #272829; */
+    padding: 1rem;
+    min-height: 36vh;
+    max-height: 70vh;
+    overflow: auto;
+}

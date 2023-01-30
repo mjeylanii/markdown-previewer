@@ -1,0 +1,33 @@
+/* Unstyle textarea */
+textarea {
+    resize: none;
+    border: none !important;
+    outline: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+
+}
+
+/* Make the div float on the left side of the screen */
+
+.editor-header {
+    padding: 0.5rem;
+    border-width: 1px;
+    text-align: left;
+    font-size: 1rem;
+}
+
+.editor-title {
+
+    /* border-color: #374956; */
+
+    border-width: 1px;
+    text-align: left;
+    font-size: 1rem;
+
+
+}
